@@ -7,5 +7,4 @@
 <a href="https://github.com/ClueForce/">
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=clueforce&langs_count=6&show_icons=true&layout=compact&bg_color=1f1d2e&text_color=FAF4ED&icon_color=C3A6E6&title_color=9CCFD8" alt="clueforce"/>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=clueforce&show_icons=true&locale=en&layout=compact&bg_color=1f1d2e&text_color=FAF4ED&icon_color=C3A6E6&title_color=9CCFD8" alt="clueforce"/>
-<a href="https://discord.gg/XG4ssZ2VRb"><p><img align="center" src="https://discord.c99.nl/widget/theme-3/805780129140834315.png" alt="clueforce"/></a>
 <a href="https://discord.gg/XG4ssZ2VRb"><p><img align="center" src="https://discordapp.com/api/guilds/796719831868375050/embed.png?style=banner3" alt="discord"/></a>
