@@ -1,5 +1,8 @@
 <h1 align="center">Hi, I'm ClueForce</h1>
 
+<h3>Starter Minecraft Developer</h3>
+<p>Project : BetterGui+ (Paid Plugins)</p>
+
 <a href="https://discord.gg/XG4ssZ2VRb" target="blank"><img src="https://shields.io/badge/join_my-discord-7289DA?logo=discord&style=for-the-badge" alt="discord.gg/XG4ssZ2VRb"/></a> 
 <a href="mailto:clueforce1203@gmail.com" target="blank"><img src="https://shields.io/badge/send_me-email-d44a3c?logo=gmail&style=for-the-badge" alt="clueforce1203@gmail.com"/></a> 
 </p>
